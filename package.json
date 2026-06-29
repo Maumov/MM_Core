@@ -1,0 +1,21 @@
+{
+  "name": "com.mm.core",
+  "version": "1.0.0",
+  "displayName": "MM Core",
+  "description": "Design patterns commonly used in development",
+  "unity": "2023.3",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+    },
+ "keywords": [
+    "singleton",
+    "event"
+  ],
+  "author": {
+    "name": "Mauricio Movilla",
+    "email": "mau.movilla@gmail.com",
+    "url": "https://www.unity3d.com"
+  }
+}
